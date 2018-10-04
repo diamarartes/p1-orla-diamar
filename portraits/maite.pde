@@ -58,7 +58,9 @@ void maite (float posx,float posy){
     line(50,110,50,105);
   //face
     stroke(0,0,0);
-    line(70,120,40,120);
+    line(40,110,50,120);
+    line(50,120,60,120);
+    line(60,120,70,110);
   //piguetes
     stroke(100,50,50);
     point(43,72);
